@@ -4,6 +4,26 @@
 
 Project ini dibuat untuk memenuhi assignment **REST API Development using Spring Boot, JPA, and MySQL**.
 
+## Latar Belakang & Tujuan
+
+Masalah:
+
+Banyak sistem membutuhkan API untuk mengelola produk & stok
+
+Dibutuhkan API yang aman, terstruktur, dan scalable
+
+Tujuan Project:
+
+Membangun REST API sesuai best practice industri
+
+Menerapkan Authentication & Authorization
+
+Menggunakan JPA & Database relasional
+
+Meningkatkan performa dengan Cache
+
+Logging untuk debugging & monitoring
+
 ---
 
 ## 🚀 Tech Stack
