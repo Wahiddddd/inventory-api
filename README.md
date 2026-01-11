@@ -7,7 +7,7 @@ User login akan mendapatkan token, lalu token tersebut digunakan untuk mengakses
 
 Tujuan Project:
 
-Membangun REST API sesuai best practice industri
+Membangun REST API
 
 Menerapkan Authentication & Authorization
 
