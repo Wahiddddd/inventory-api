@@ -3,7 +3,7 @@
 Aplikasi ini adalah Inventory API dengan autentikasi JWT dan role-based authorization.
 User login akan mendapatkan token, lalu token tersebut digunakan untuk mengakses endpoint sesuai role ADMIN atau STAFF.
 
-## Latar Belakang & Tujuan
+## Tujuan
 
 Tujuan Project:
 
