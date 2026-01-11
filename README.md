@@ -1,16 +1,9 @@
 # 🧾 Inventory API — Spring Boot
 
-**Inventory API** adalah mini project berbasis **Spring Boot** untuk manajemen produk dengan fitur autentikasi JWT, role-based access, caching, logging, dan global error handling.
-
-Project ini dibuat untuk memenuhi assignment **REST API Development using Spring Boot, JPA, and MySQL**.
+Aplikasi ini adalah Inventory API dengan autentikasi JWT dan role-based authorization.
+User login akan mendapatkan token, lalu token tersebut digunakan untuk mengakses endpoint sesuai role ADMIN atau STAFF.
 
 ## Latar Belakang & Tujuan
-
-Masalah:
-
-Banyak sistem membutuhkan API untuk mengelola produk & stok
-
-Dibutuhkan API yang aman, terstruktur, dan scalable
 
 Tujuan Project:
 
